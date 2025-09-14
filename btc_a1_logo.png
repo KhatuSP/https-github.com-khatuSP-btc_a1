@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BTC_A1 Token</title>
+  <meta property="og:title" content="BTC_A1 Token">
+  <meta property="og:description" content="BTC_A1 - Ultra Secure Fixed Supply BEP20 Token">
+  <meta property="og:image" content="btc_a1_logo.png">
+  <meta property="og:type" content="website">
+  <meta name="description" content="BTC_A1 - Ultra Secure Fixed Supply BEP20 Token">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .logo-container {
+      text-align: center;
+      background-color: #fff;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+    .logo-container img {
+      width: 200px;
+      height: 200px;
+      object-fit: contain;
+    }
+    .logo-container h1 {
+      margin-top: 20px;
+      font-size: 28px;
+      color: #333;
+    }
+    .logo-container p {
+      margin-top: 10px;
+      font-size: 16px;
+      color: #666;
+    }
+    .verified {
+      margin-top: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      background: #e6ffe6;
+      padding: 10px 20px;
+      border-radius: 12px;
+      border: 1px solid #00cc66;
+      box-shadow: 0 0 10px rgba(0,200,100,0.3);
+      font-weight: bold;
+      color: #006633;
+    }
+    .verified img {
+      width: 24px;
+      height: 24px;
+    }
+    .verified a {
+      text-decoration: none;
+      color: #006633;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-container">
+    <img src="btc_a1_logo.png" alt="BTC_A1 Logo">
+    <h1>BTC_A1 Token</h1>
+    <p>Ultra Secure Fixed Supply BEP20 Token</p>
+    <p>Contract: 
+      <a href="https://bscscan.com/address/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e" target="_blank">
+        0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e
+      </a>
+    </p>
+    <div class="verified">
+      <img src="https://img.icons8.com/color/48/000000/verified-badge.png" alt="Verified">
+      <p>Signature Verified – <a href="https://bscscan.com/address/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e#code" target="_blank">Creator Verified on BscScan</a></p>
+    </div>
+  </div>
+</body>
+</html>
